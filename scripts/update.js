@@ -12,7 +12,7 @@ const conf = {
     branch: "master",
   },
   imgDir: "images",
-  api: "https://vercel-api-chi.vercel.app/api",
+  api: "https://github-readme-stats-2fx07k9xc-evan-leigh.vercel.app/api",
   styles: {
     light: {},
     dark: {
