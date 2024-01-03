@@ -1,2 +1,10 @@
-<a href="https://github.com/indexr/undefined"><img src="https://raw.githubusercontent.com/indexr/indexr/main/assets/undefined.svg" alt="undefined: null"></a>
-<a href="https://github.com/class-scraper/undefined"><img src="https://raw.githubusercontent.com/class-scraper/class-scraper/main/assets/undefined.svg" alt="undefined: Web scraper that extracts data from a web page and generates a JSON table based on a configuration file. The scraper is built in Python and uses the BeautifulSoup library for parsing HTML."></a>
+### Test
+
+<div float="left">
+<a href="https://github.com/kyza0d/indexr#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/kyza0d/kyza0d/master/images/kyza0d-indexr-dark.svg#gh-dark-mode-only" alt="indexr: test"></a>
+<a href="https://github.com/kyza0d/indexr#gh-light-mode-only"><img src="https://raw.githubusercontent.com/kyza0d/kyza0d/master/images/kyza0d-indexr-light.svg#gh-light-mode-only" alt="indexr: test"></a>
+&nbsp;
+<a href="https://github.com/kyza0d/class-scraper#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/kyza0d/kyza0d/master/images/kyza0d-class-scraper-dark.svg#gh-dark-mode-only" alt="class-scraper: test"></a>
+<a href="https://github.com/kyza0d/class-scraper#gh-light-mode-only"><img src="https://raw.githubusercontent.com/kyza0d/kyza0d/master/images/kyza0d-class-scraper-light.svg#gh-light-mode-only" alt="class-scraper: test"></a>
+&nbsp;
+</div>
