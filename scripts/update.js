@@ -6,13 +6,15 @@ const importMeta = import.meta;
 const scriptsDir = path.dirname(importMeta.url.replace("file://", ""));
 const baseDir = path.dirname(scriptsDir);
 
+console.log("update");
+
 const conf = {
   repo: {
     base: "kyza0d/kyza0d",
-    branch: "master",
+    branch: "main",
   },
   imgDir: "images",
-  api: "https://github-readme-stats-2fx07k9xc-evan-leigh.vercel.app/api",
+  api: "https://github-readme-stats-smoky-three-21.vercel.app/api",
   styles: {
     light: {},
     dark: {
