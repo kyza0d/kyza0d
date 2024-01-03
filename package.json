@@ -1,0 +1,22 @@
+{
+  "name": "git.me",
+  "version": "1.0.0",
+  "description": "A project to automatically update README.md using GitHub Actions and Node.js scripts",
+  "main": "scripts/update.js",
+  "type": "module",
+  "scripts": {
+    "update": "node scripts/update.js",
+    "test": "echo \"Error: no test included\" && exit 1"
+  },
+  "keywords": [
+    "Node.js",
+    "GitHub Actions",
+    "README",
+    "Automation"
+  ],
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.6"
+  }
+}

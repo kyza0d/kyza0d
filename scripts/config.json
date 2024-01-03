@@ -1,0 +1,15 @@
+{
+  "repo": {
+    "base": "kyza0d/kyza0d",
+    "branch": "master",
+    "imgDir": "images"
+  },
+  "data": [
+    {
+      "name": "kyza0d/indexr"
+    },
+    {
+      "name": "kyza0d/class-scraper"
+    }
+  ]
+}

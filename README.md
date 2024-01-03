@@ -1,0 +1,2 @@
+<a href="https://github.com/indexr/undefined"><img src="https://raw.githubusercontent.com/indexr/indexr/main/assets/undefined.svg" alt="undefined: null"></a>
+<a href="https://github.com/class-scraper/undefined"><img src="https://raw.githubusercontent.com/class-scraper/class-scraper/main/assets/undefined.svg" alt="undefined: Web scraper that extracts data from a web page and generates a JSON table based on a configuration file. The scraper is built in Python and uses the BeautifulSoup library for parsing HTML."></a>
