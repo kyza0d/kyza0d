@@ -17,7 +17,6 @@
   "author": "Your Name",
   "license": "ISC",
   "dependencies": {
-    "@primer/octicons": "^19.8.0",
     "node-fetch": "^2.6.6"
   }
 }
