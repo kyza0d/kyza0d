@@ -11,7 +11,7 @@ console.log("update");
 const conf = {
   repo: {
     base: "kyza0d/kyza0d",
-    branch: "main",
+    branch: "master",
   },
   imgDir: "images",
   api: "https://github-readme-stats-smoky-three-21.vercel.app/api",
