@@ -15,8 +15,8 @@ const importMeta = import.meta;
 const scriptsDir = path.dirname(importMeta.url.replace("file://", ""));
 const baseDir = path.dirname(scriptsDir);
 
-// Configuration settings loaded from config.json instead of hardcoded
-import config from "./config.json" assert { type: "json" };
+// Read configuration from file
+import config from "./config.js";
 
 // Cache for storing image URLs
 const imgCache = new Map();
