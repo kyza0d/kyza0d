@@ -24,7 +24,7 @@ export default {
           user: "kyza0d",
           repo: "portfolio",
           description:
-            "👜 My portfolio showcasing a selection of my programming projects",
+            "👜 Personal portfolio showcasing a selection of my projects",
         },
       ],
     },
@@ -35,7 +35,7 @@ export default {
         {
           kind: "repo",
           user: "kyza0d",
-          repo: "abstract.nvim",
+          repo: "scratch.nvim",
           description: "",
         },
       ],

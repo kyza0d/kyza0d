@@ -43,7 +43,7 @@ function renderRepoCard({ user, repo, description, style }) {
   const search = new URLSearchParams({
     username: user,
     repo,
-    show_owner: true,
+    show_owner: false,
     ...config.styles[style],
   });
   return `<a href="https://github.com/${user}/${repo}#gh-${style}-mode-only">${renderCachedImage(
