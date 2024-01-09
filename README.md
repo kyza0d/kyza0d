@@ -1,7 +1,7 @@
 ### Web Development
 
-<div float="left"><a href="https://github.com/kyza0d/portfolio#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/kyza0d/kyza0d/master/images/kyza0d-portfolio-dark.svg#gh-dark-mode-only" alt="portfolio: "></a>
-<a href="https://github.com/kyza0d/portfolio#gh-light-mode-only"><img src="https://raw.githubusercontent.com/kyza0d/kyza0d/master/images/kyza0d-portfolio-light.svg#gh-light-mode-only" alt="portfolio: "></a>&nbsp;</div>
+<div float="left"><a href="https://github.com/kyza0d/portfolio#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/kyza0d/kyza0d/master/images/kyza0d-portfolio-dark.svg#gh-dark-mode-only" alt="portfolio: 👜 My portfolio showcasing a selection of my programming projects"></a>
+<a href="https://github.com/kyza0d/portfolio#gh-light-mode-only"><img src="https://raw.githubusercontent.com/kyza0d/kyza0d/master/images/kyza0d-portfolio-light.svg#gh-light-mode-only" alt="portfolio: 👜 My portfolio showcasing a selection of my programming projects"></a>&nbsp;</div>
 
 ### Neovim Plugins
 

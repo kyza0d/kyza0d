@@ -23,7 +23,8 @@ export default {
           kind: "repo",
           user: "kyza0d",
           repo: "portfolio",
-          description: "",
+          description:
+            "👜 My portfolio showcasing a selection of my programming projects",
         },
       ],
     },
